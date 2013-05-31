@@ -2,6 +2,7 @@ Next Release
 ------------
 
 * Fix [#2](https://github.com/memcachier/memcachier-gem/issues/2): don't override MEMCACHED environment settings when present - [@dblock](https://github.com/dblock).
+* Added tests - [@dblock](https://github.com/dblock).
 
 0.0.2
 -----
